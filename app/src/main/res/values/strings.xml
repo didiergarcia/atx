@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ATX</string>
+    <string name="app_description">Test the different Android threading models</string>
+    <string name="button_start_thread">Start Thread</string>
+    <string name="button_start_thread_from_thread">Start Thread From Thread</string>
+    <string name="priority">Priority</string>
+    <string name="use_thread_kick_start">Use Thread kick Start</string>
+    <string name="thread_type_label">Thread Type</string>
+    <string name="thread_type_sleepy">Sleepy</string>
+    <string name="thread_type_county">Worky</string>
+    <string name="thread_type_networky">Networky</string>
+    <string name="lower_ui_thread_priority">Lower UI Priority</string>
+</resources>
