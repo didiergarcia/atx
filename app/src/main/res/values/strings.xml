@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ATX</string>
-    <string name="app_description">Test the different Android threading models</string>
+    <string name="app_description">Test the different Android threading models and inspect them to get a better idea about what\'s really going on.</string>
     <string name="button_start_thread">Start Thread</string>
     <string name="button_start_thread_from_thread">Start Thread From Thread</string>
     <string name="priority">Priority</string>
@@ -10,4 +10,6 @@
     <string name="thread_type_county">Worky</string>
     <string name="thread_type_networky">Networky</string>
     <string name="lower_ui_thread_priority">Lower UI Priority</string>
+    <string name="java_threads">Java Threads</string>
+    <string name="info">Info</string>
 </resources>
