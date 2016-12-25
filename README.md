@@ -1,2 +1,1 @@
-# Android Threading X-Ray (ATX)
-coming soon...
+Example of Java/Android threading. For demostration only.
